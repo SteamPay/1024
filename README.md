@@ -16,8 +16,8 @@
 
  **进行第二步操作，点击绑定手机令牌，选择截图里的国家，然后输入自己的手机号，记的自己加86** 
 
-![2](https://imgse.com/i/pA53oZR)
-![3](https://imgse.com/i/pA535L9)
+![2](https://s21.ax1x.com/2024/11/29/pA53oZR.png)
+![3](https://s21.ax1x.com/2024/11/29/pA535L9.png)
 
 
  **至此，双重验证绑定完成** 
