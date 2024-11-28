@@ -1,39 +1,25 @@
-# MXDYZ
+### 【小逸电玩】编辑提供教程（整理时间：2024年11月28日，如有变动会在此更新）
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+  **打开绑定界面，登录账号，然后点击对应的绑定：[点击打开](https://www.nexon.com/account/en/setting/security?return_url=https%3A%2F%2Fwww.nexon.com%2Fmain%2Fen)** 
 
-#### 软件架构
-软件架构说明
+![1](https://s21.ax1x.com/2024/11/29/pA53sZn.png)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+ **下面按顺序操作，先绑定第一个APP令牌，绑定后所有登录验证码均在APP里看** 
 
-#### 使用说明
+ **可以使用，微软令牌，谷歌令牌，微信小程序的二次验证码等APP软件** 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![输入图片说明](https://s21.ax1x.com/2024/11/29/pA53WzF.png)
 
 
-#### 特技
+ **进行第二步操作，点击绑定手机令牌，选择截图里的国家，然后输入自己的手机号，记的自己加86** 
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![2](https://imgse.com/i/pA53oZR)
+![3](https://imgse.com/i/pA535L9)
+
+
+ **至此，双重验证绑定完成** 
+
+
+
