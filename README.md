@@ -2,6 +2,8 @@
 
 ### 如嫌操作麻烦或者不会，可联系客服下单【高级会员】6元，帮忙双重认证操作！
 
+ **国内手机号验证的方式随时可能失效，如遇到收不到验证码，或者显示号码无效等问题，则说明失效，请自备海外手机号** 
+
   **打开绑定界面，登录账号，然后点击对应的绑定：[点击打开](https://www.nexon.com/account/en/setting/security?return_url=https%3A%2F%2Fwww.nexon.com%2Fmain%2Fen)** 
 
 ![1](https://s21.ax1x.com/2024/11/29/pA53sZn.png)
