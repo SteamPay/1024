@@ -3,15 +3,15 @@
 ### 如嫌操作麻烦或者不会，本店买的账号可联系客服6元帮忙双重认证操作！
 
 
- **打开绑定界面，登录账号，然后点击对应的绑定，只需要绑定任意一项就行：[点击打开](https://www.nexon.com/account/en/setting/security?return_url=https%3A%2F%2Fwww.nexon.com%2Fmain%2Fen)** 
+ **1.打开绑定界面，登录账号，然后点击对应的绑定，只需要绑定任意一项就行：[点击打开绑定界面](https://www.nexon.com/account/en/setting/security?return_url=https%3A%2F%2Fwww.nexon.com%2Fmain%2Fen)** 
 
 ![1](https://s21.ax1x.com/2024/11/29/pA53sZn.png)
 
 
 
- **下面按顺序操作，点击第一个APP令牌，注意绑定后所有登录验证码均在APP里看** 
+ **点击上面截图箭头指向的第一个APP令牌，注意绑定后所有登录验证码均在APP里看** 
 
- **可以使用，微软令牌和微信小程序的二次验证码小程序，自己选一个即可** 
+ **可以使用，微软令牌和微信小程序的二次验证码小程序，自己选一个合适的即可** 
 
  **微软令牌下载方式：苹果手机直接商店搜索Microsoft Authenticator，安卓手机可以直接安装：[网盘下载](https://xydw.lanzoue.com/icp612gluqfg)** 
 
