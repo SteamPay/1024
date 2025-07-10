@@ -4,28 +4,33 @@
 
 **打开下方的绑定网址，登录账号：https://tw.nexon.com/account/zh/setting/security** 
 
+
+ **下面按顺序操作，点击把SMS设为主要方式** 
+
 ![1](https://s21.ax1x.com/2025/07/10/pVQ4jKK.png)
-
-
- **下面按顺序操作，点击把SMS设为主要，再切回令牌app为主要** 
-
-
 
 
 ![1](https://s21.ax1x.com/2025/07/10/pVQ4q81.png)
 
+ **输入令牌验证码** 
+
 ![11](https://s21.ax1x.com/2025/07/10/pVQ4bCR.png)
 
 
- 
+  **再点击把令牌app身份设为主要方式** 
 
 ![2](https://s21.ax1x.com/2025/07/10/pVQ4Lgx.png)
+
+  **左下角选择更多方式验证** 
 ![3](https://s21.ax1x.com/2025/07/10/pVQ4759.png)
+
+
+  **选择身份验证app，然后输入令牌码** 
 
 ![33](https://s21.ax1x.com/2025/07/10/pVQ4Ov6.png)
 
 
- **至此，再尝试进游戏** 
+ **至此，再尝试进游戏看看** 
 
 
 
