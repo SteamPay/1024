@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "url": "https://d.kstore.dev/download/3085/TV.json",
+      "name": "1024-NTwo"
+    },
+    {
+      "url": "https://d.kstore.dev/download/3085/STV.json",
+      "name": "1024-Fish"
+    },
+    {
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "PG线路"
+    },
+    {
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "name": "真心线路"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "牛二线路"
+    },
+    {
+      "url": "http://摸鱼儿.cc",
+      "name": "摸鱼线路"
+    },
+    {
+      "url": "http://itv666.cc/aowu/config.webp",
+      "name": "嗷呜线路"
+    },
+    {
+      "url": "http://rihou.cc:88/demo.php",
+      "name": "VOX线路"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
+      "name": "米家线路"
+    },
+    {
+      "name": "肥猫线路",
+      "url": "http://肥猫.net"
+    },
+    {
+      "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json",
+      "name": "潇洒线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/GodLike631/Ly/refs/heads/main/datas/local_config.json",
+      "name": "海豚线路"
+    },
+    {
+      "name": "饭太硬线路",
+      "url": "http://www.饭太硬.art/tv"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
+      "name": "弹幕注入"
+    }
+  ]
+}
